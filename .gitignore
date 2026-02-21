@@ -1,3 +1,63 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+.vscode/
+.idea/
+
+# --- Environment & Secrets (CRITICAL) ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+wallet.json
+id.json
+
+# --- Dependencies ---
+node_modules/
+jspm_packages/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# --- Mobile: Android ---
+build/
+*.keystore
+!debug.keystore
+*.apk
+*.aab
+.gradle/
+local.properties
+capture.png
+
+# --- Mobile: iOS ---
+DerivedData/
+build/
+*.ipa
+*.xcuserstate
+*.xcworkspace
+Pods/
+Podfile.lock
+Frameworks/
+
+# --- Mobile: Expo (if applicable) ---
+.expo/
+dist/
+
+# --- Web3 & Tools ---
+target/
+.anchor/
+dump.json
+test-ledger/
+
+# --- Testing & Coverage ---
+coverage/
+*.lcov
+__screenshots__/
+
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
