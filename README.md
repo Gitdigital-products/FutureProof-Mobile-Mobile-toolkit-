@@ -1,3 +1,18 @@
+<div align="center">
+
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-/ci.yml?branch=main&style=for-the-badge&logo=github&color=00FFBD)](https://github.com/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-/actions)
+[![Solana Version](https://img.shields.io/badge/Solana-2.0.0--kit-black?style=for-the-badge&logo=solana&logoColor=9945FF)](https://solana.com/)
+[![NPM Version](https://img.shields.io/badge/NPM-v0.1.0-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+[![Platform: iOS / Android](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://reactnative.dev/)
+[![Security: SOC2 Ready](https://img.shields.io/badge/Security-SOC2_Ready-success?style=for-the-badge&logo=shield-check&logoColor=white)](https://gitdigital.com/security)
+[![Code Quality](https://img.shields.io/badge/Code_Quality-A+-brightgreen?style=for-the-badge&logo=sonarqube)](https://github.com/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-/)
+
+</div>
+
+---
+
 
 📱 FutureProof-Mobile-toolkit-
 The Standard for Solana-Native, Compliance-First Mobile Development.
