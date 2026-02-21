@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-/ci.yml?branch=main&style=for-the-badge&logo=github&label=BUILD)](https://github.com/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-/actions)
+
 <div align="center">
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-/ci.yml?branch=main&style=for-the-badge&logo=github&color=00FFBD)](https://github.com/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-/actions)
