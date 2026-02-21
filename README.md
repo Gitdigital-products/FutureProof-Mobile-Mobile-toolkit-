@@ -8,6 +8,7 @@ The FutureProof Mobile Toolkit is a modular library designed to accelerate the d
  * Identity-First: Pre-integrated patterns for KYC/AML verification consistent with GitDigital standards.
  * Battery-Optimized: Specialized RPC polling and websocket management to preserve mobile device longevity.
  * Type-Safe: 100% TypeScript with Zod schema validation for all on-chain data.
+
 📂 Project Structure
 .
 ├── .github/              # CI/CD Workflows & Templates
